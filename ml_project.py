@@ -410,7 +410,9 @@ if app_mode == 'Deployment 🚀':
 
     id = st.text_input('ID Model', 'fa7b0a64463c4c99b456788fd7ace291')
         # Print emissions
-    logged_model = f'runs:/{id}/top_model_v1'
+    #logged_model = f'runs:/{id}/top_model_v1'
+    logged_model = f'./mlruns/422823896641725238/{id}/artifacts/top_model_v1'
+    
         # Load model as a PyFuncModel.
     loaded_model = mlflow.pyfunc.load_model(logged_model)
     loaded_model
