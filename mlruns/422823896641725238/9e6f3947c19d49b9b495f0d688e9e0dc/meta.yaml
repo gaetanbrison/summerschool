@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gaetanbrison/Documents/GitHub/summerschool/mlruns/422823896641725238/9e6f3947c19d49b9b495f0d688e9e0dc/artifacts
+end_time: 1688559046636
+entry_point_name: ''
+experiment_id: '422823896641725238'
+lifecycle_stage: active
+run_id: 9e6f3947c19d49b9b495f0d688e9e0dc
+run_name: traveling-jay-308
+run_uuid: 9e6f3947c19d49b9b495f0d688e9e0dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688559043538
+status: 3
+tags: []
+user_id: gaetanbrison

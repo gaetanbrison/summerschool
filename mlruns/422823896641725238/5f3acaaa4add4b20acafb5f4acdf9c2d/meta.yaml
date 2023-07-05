@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/gaetanbrison/Documents/GitHub/summerschool/mlruns/422823896641725238/5f3acaaa4add4b20acafb5f4acdf9c2d/artifacts
+deleted_time: null
+end_time: null
+entry_point_name: ''
+experiment_id: '422823896641725238'
+lifecycle_stage: active
+run_id: 5f3acaaa4add4b20acafb5f4acdf9c2d
+run_name: intelligent-foal-298
+run_uuid: 5f3acaaa4add4b20acafb5f4acdf9c2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688557898066
+status: 1
+tags: []
+user_id: gaetanbrison

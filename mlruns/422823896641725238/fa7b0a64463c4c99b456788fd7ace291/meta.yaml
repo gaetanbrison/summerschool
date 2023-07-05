@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gaetanbrison/Documents/GitHub/summerschool/mlruns/422823896641725238/fa7b0a64463c4c99b456788fd7ace291/artifacts
+end_time: 1688558041180
+entry_point_name: ''
+experiment_id: '422823896641725238'
+lifecycle_stage: active
+run_id: fa7b0a64463c4c99b456788fd7ace291
+run_name: gregarious-stork-77
+run_uuid: fa7b0a64463c4c99b456788fd7ace291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688558037306
+status: 3
+tags: []
+user_id: gaetanbrison
