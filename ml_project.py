@@ -75,8 +75,8 @@ def main():
     # hide the footer
     hide_header_footer()
 
-image_nyu = Image.open('images/hi-paris.png')
-st.image(image_nyu, width=300)
+image_test = Image.open('images/hi-paris.png')
+st.image(image_test, width=300)
 
 st.title("ML Pipeline Lab 🧪")
 
